@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1460755065
+#1461908192
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,10 @@ images/continuar-sheet0.png
 images/reload-sheet0.png
 images/volver-sheet0.png
 images/hueso-sheet0.png
+images/fondo3-sheet0.png
+images/titulo-sheet0.png
+images/comenzar-sheet0.png
+images/instrucciones-sheet0.png
 media/rightchime1.ogg
 media/spring247.ogg
 media/rightchime1.m4a

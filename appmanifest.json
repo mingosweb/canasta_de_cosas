@@ -1,6 +1,6 @@
 ﻿{
-	"name": "juego_semantico",
-	"short_name": "juego_semantico",
+	"name": "canasta de cosas",
+	"short_name": "canasta de cosas",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
